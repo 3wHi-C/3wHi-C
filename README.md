@@ -1,4 +1,4 @@
-## Hi there 👋
+## 3w Hi-C Protocol
 
 <!--
 **3wHi-C/3wHi-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
